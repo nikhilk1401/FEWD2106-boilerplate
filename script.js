@@ -1,15 +1,15 @@
 var y = Math.floor(Math.random() * 10 + 1);
       
-    // counting the number of guesses
-    // made for correct Guess
+    // Iteration 1: Counting the number of guesses
+    // Iteration 2: Made for correct Guess
         
-   // number guessed by user     
+   // Iteration 3: Number guessed by user     
   
-   if() /* if guessed number equal the actual number*/
+   if() /* Iteration 4: If guessed number equal the actual number*/
    {    
        alert("CONGRATULATIONS!!! YOU GUESSED IT RIGHT IN "+ guess + " GUESS ");
    }
-   else if() /* if guessed number is greater than actual number*/ 
+   else if() /* Iteration 5: If guessed number is greater than actual number*/ 
    {    
        alert("OOPS SORRY!! TRY A SMALLER NUMBER");
    }
